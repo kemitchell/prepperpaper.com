@@ -8,4 +8,4 @@ Names and terms for these documents vary widely.  You may have heard names like 
 {% endfor %}
 </ul>
 
-If you're a lawyer and want to help improve this site, [join the mailing list](https://lists.kemitchell.com/postorius/lists/prepperpaper.lists.kemitchell.com/) and send the group an e-mail.
+If you're a lawyer, translator, or legal editor and want to help improve this site, [join the mailing list](https://lists.kemitchell.com/postorius/lists/prepperpaper.lists.kemitchell.com/) and send the group an e-mail.
