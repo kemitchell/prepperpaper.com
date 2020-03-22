@@ -9,10 +9,10 @@ permalink: /texas
 ## Forms
 
 - From [Health and Human Services](https://hhs.texas.gov/laws-regulations/forms/advance-directives):
-  - [Directive to Physicians and Family or Surrogates](https://hhs.texas.gov/laws-regulations/forms/miscellaneous/form-livingwill-directive-physicians-family-or-surrogates)
-  - [Medical Power of Attorney](https://hhs.texas.gov/laws-regulations/forms/miscellaneous/mpoa-medical-power-attorney)
+  - [Directive to Physicians and Family or Surrogates](https://hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/LivingWill/LivingWill.pdf)
+  - [Medical Power of Attorney](https://hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/MPOA/MPOA.pdf)
   - [Out-of-Hospital Do-Not-Resuscitate](http://www.dshs.state.tx.us/emstraumasystems/dnr/pdf/DNR_form.pdf)
-  - [Statutory Durable Power of Attorney](https://hhs.texas.gov/laws-regulations/forms/miscellaneous/sdpoa-statutory-durable-power-attorney)
+  - [Statutory Durable Power of Attorney](https://hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx)
 
 ## Lawyers
 
