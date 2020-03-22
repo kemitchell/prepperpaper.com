@@ -49,9 +49,12 @@ a[href]:hover {
   text-decoration: underline;
 }
 
-footer[role=contentinfo] {
+body > footer {
   margin-bottom: 3rem;
   margin-top: 2rem;
+}
+
+footer[role=contentinfo] {
   text-align: right;
 }
 
@@ -69,4 +72,8 @@ footer[role=contentinfo] ul li:after {
 
 footer[role=contentinfo] ul li:last-child:after {
   content: none;
+}
+
+footer[role=disclaimer] {
+  font-style: italic;
 }
