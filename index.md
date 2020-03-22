@@ -7,3 +7,5 @@ Names and terms for these documents vary widely.  You may have heard names like 
 <li><a href="{{state.permalink}}">{{state.title | escape }}</a></li>
 {% endfor %}
 </ul>
+
+If you're a lawyer and want to help improve this site, [join the mailing list](https://lists.kemitchell.com/postorius/lists/prepperpaper.lists.kemitchell.com/) and send the group an e-mail.
