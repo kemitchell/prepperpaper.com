@@ -1,0 +1,10 @@
+title: "Prepper Paper"
+description: "the paper you actually need"
+url: "https://prepperpaper.com"
+homepage: "https://prepperpaper.com"
+repository: "kemitchell/prepperpaper.com"
+repository_url: "https://github.com/kemitchell/prepperpaper.com"
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
