@@ -4,6 +4,9 @@ url: "https://prepperpaper.com"
 homepage: "https://prepperpaper.com"
 repository: "kemitchell/prepperpaper.com"
 repository_url: "https://github.com/kemitchell/prepperpaper.com"
+collections:
+  states:
+    output: true
 exclude:
 - Gemfile
 - Gemfile.lock
