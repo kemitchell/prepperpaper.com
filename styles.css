@@ -1,3 +1,7 @@
+---
+permalink: /styles.css
+---
+
 html {
   font-size: 2.0vw;
   text-align: left;
@@ -76,4 +80,94 @@ footer[role=contentinfo] ul li:last-child:after {
 
 footer[role=disclaimer] {
   font-style: italic;
+  margin-top: 2rem;
+  border-top: 1px dashed black;
+}
+
+
+/* List Styles */
+
+.lowerAlphaInParentheses {
+  counter-reset: lowerAlphaInParentheses;
+}
+
+.lowerAlphaInParentheses > li {
+  list-style: none;
+  position: relative;
+}
+
+.lowerAlphaInParentheses > li:before {
+  content: "(" counter(lowerAlphaInParentheses, lower-alpha) ") ";
+  counter-increment: lowerAlphaInParentheses;
+  display:block;
+  left: -2rem;
+  position: absolute;
+  user-select: text;
+}
+
+.lowerRomanInParentheses {
+  counter-reset: lowerRomanInParentheses;
+}
+
+.lowerRomanInParentheses > li {
+  list-style: none;
+  position: relative;
+}
+
+.lowerRomanInParentheses > li:before {
+  content: "(" counter(lowerRomanInParentheses, lower-roman) ") ";
+  counter-increment: lowerRomanInParentheses;
+  display:block;
+  left: -2rem;
+  position: absolute;
+  user-select: text;
+}
+
+.arabicInParentheses {
+  counter-reset: arabicInParentheses;
+}
+
+.arabicInParentheses > li {
+  list-style: none;
+  position: relative;
+}
+
+.arabicInParentheses > li:before {
+  content: "(" counter(arabicInParentheses) ") ";
+  counter-increment: arabicInParentheses;
+  display:block;
+  left: -2rem;
+  position: absolute;
+  user-select: text;
+}
+
+.upperAlphaInParentheses {
+  counter-reset: upperAlphaInParentheses;
+}
+
+.upperAlphaInParentheses > li {
+  list-style: none;
+  position: relative;
+}
+
+.upperAlphaInParentheses > li:before {
+  content: "(" counter(upperAlphaInParentheses, upper-alpha) ") ";
+  counter-increment: upperAlphaInParentheses;
+  display:block;
+  left: -2rem;
+  position: absolute;
+  user-select: text;
+}
+
+/* Commentary */
+
+aside {
+  border: 1px solid #17a2b8;
+  border-radius: 0.25rem;
+  padding: 0.8rem;
+}
+
+aside:before {
+  content: 'Commentary:';
+  font-weight: bold;
 }
