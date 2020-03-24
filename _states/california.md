@@ -17,4 +17,4 @@ The State Bar of California publishes [a list of certified lawyer referral servi
 
 - Probate Code Section 4701 codifies the statutory form for advance healthcare directives: [online](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4701.&lawCode=PROB), [PDF](/resources/california/probate-4701.pdf)
 
-- see our [California statutes reference page](/california-statutes)
+- see our [California law reference page](/california-law)
