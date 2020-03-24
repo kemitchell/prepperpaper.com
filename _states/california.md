@@ -4,8 +4,6 @@ layout: default
 permalink: /california
 ---
 
-# California
-
 ## Form
 
 - [PDF Format](/resources/california/statutory-form.pdf)

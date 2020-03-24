@@ -4,8 +4,6 @@ layout: default
 permalink: /texas
 ---
 
-# Texas
-
 ## Forms
 
 - From [Health and Human Services](https://hhs.texas.gov/laws-regulations/forms/advance-directives):

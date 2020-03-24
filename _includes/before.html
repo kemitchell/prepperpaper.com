@@ -3,7 +3,7 @@
 <head>
   <meta charset=UTF-8>
   <meta name=viewport content="width=device-width, initial-scale=1">
-  <title>{{site.title | escape}}</title>
+  <title>{{ site.title }}{% if page.title %}: {{ page.title }}{% endif %}</title>
   <link href=/styles.css rel=stylesheet>
   <!-- Twitter Card -->
   <meta name=twitter:card content=summary>
