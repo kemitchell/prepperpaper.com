@@ -55,8 +55,13 @@ a[href]:hover {
 }
 
 body > footer {
-  margin-bottom: 3rem;
-  margin-top: 2rem;
+  border-top: 1px dashed black;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+body > footer:last-child {
+  margin-bottom: 5rem;
 }
 
 footer[role=contentinfo] {
@@ -81,8 +86,6 @@ footer[role=contentinfo] ul li:last-child:after {
 
 footer[role=disclaimer] {
   font-style: italic;
-  margin-top: 2rem;
-  border-top: 1px dashed black;
 }
 
 
